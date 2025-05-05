@@ -30,13 +30,13 @@ const Contact = () => {
   const contact_info = [
     {
       logo: "mail",
-      text: "raghavadhanukonda709@gmail.com",
-      link: "mailto:raghavadhanukonda709@gmail.com?subject=Hello&body=Hi%20Raghava!",
+      text: "mulagapakabharath2543@gmail.com",
+      link: "mailto:mulagapakabharath2543@gmail.com?subject=Hello&body=Hi%20Bharath!",
     },
     {
       logo: "logo-whatsapp",
-      text: "+91 7794058674",
-      link: "https://wa.me/917794058674?text=Hi%20there!",
+      text: "+91 7995059274",
+      link: "https://wa.me/917995059274?text=Hi%20there!",
     },
     {
       logo: "location",

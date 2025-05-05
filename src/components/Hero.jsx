@@ -4,8 +4,8 @@ import { FaGithub,FaInstagram,FaTwitter,FaLinkedin } from "react-icons/fa";
 const Hero = () => {
   const social_media = [
     {i:<FaInstagram size="2em"/>,link:"https://www.instagram.com/raghava_.27.03/"},
-    {i:<FaGithub size="2em"/>,link:"https://github.com/raghava7095"},
-    {i:<FaLinkedin size="2em"/>,link:"https://www.linkedin.com/in/raghava-dhanukonda-9b3243254/"},
+    {i:<FaGithub size="2em"/>,link:"https://github.com/Bharath78935"},
+    {i:<FaLinkedin size="2em"/>,link:"https://www.linkedin.com/in/mulagapaka-naga-bharath-7989a635a"},
     {i:<FaTwitter size="2em"/>,link:"https://twitter.com/Raghava__18"},
   ];
   return (
@@ -23,7 +23,7 @@ const Hero = () => {
               Hello!
               <br />
             </span>
-            My Name is <span>Raghava</span>
+            My Name is <span>Bharath</span>
           </h1>
           <h4 className="md:text-2xl text-lg md:leading-normal leading-5 mt-4 font-bold text-gray-600">
             Web Developer
