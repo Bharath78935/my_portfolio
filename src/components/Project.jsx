@@ -15,27 +15,27 @@ const Project = () => {
       img: project4,
       name: "Portfolio",
       github_link:
-        "https://github.com/raghava7095/my_portfolio",
-      live_link: "https://my-portfolio-mu-bice-58.vercel.app/",
+        "https://github.com/Bharath78935/my_portfolio",
+      live_link: "https://myportfolio-nu-roan-34.vercel.app/",
     },
     {
       img: project6,
       name: "Airlines",
       github_link:
-        "https://github.com/raghava7095/Airlines",
-      live_link: "https://github.com/raghava7095/Airlines",
+        "https://github.com/Bharath78935/Airliness",
+      live_link: "bharath78935.github.io/Airlines/",
     },
     {
       img: project2,
       name: "Calculator",
-      github_link: "https://github.com/raghava7095/Calculator",
-      live_link: "https://raghava7095.github.io/Calculator/",
+      github_link: "https://github.com/Bharath78935/Calcalutor",
+      live_link: "https://calcalutor.vercel.app/",
     },
     {
       img: project3,
       name: "Landing Page",
-      github_link: "https://github.com/raghava7095/landing-page",
-      live_link: "https://raghava7095.github.io/landing-page/",
+      github_link: "https://github.com/Bharath78935/Landing_page",
+      live_link: "https://bharath78935.github.io/Landing_page/",
     },
   ];
   return (
