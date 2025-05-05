@@ -23,7 +23,7 @@ const Project = () => {
       name: "Airlines",
       github_link:
         "https://github.com/Bharath78935/Airliness",
-      live_link: "bharath78935.github.io/Airlines/",
+      live_link: "https://bharath78935.github.io/Airlines/",
     },
     {
       img: project2,
